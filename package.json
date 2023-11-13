@@ -1,0 +1,15 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Lượng Trần",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/lov3five/fcc-be-npm.git"
+	}
+}
